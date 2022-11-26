@@ -41,12 +41,13 @@ This project is analyzing fitness data of female user's from Smart Watch Fitness
 - Completeness
 
 ### Notes:
-MansiDesai_175 :
+**MansiDesai_175 :**
 - libraries are imported.
 - head part of data is taken.
 - Changing datatype of ActivityDate 
 - Graph of Datewise calories burned, inactive minutes.
-DevashreeDhagat_065 :
+
+**DevashreeDhagat_065 :**
 - Libraries are imported.
 - Tail part of the data is taken.
 - Data description.
