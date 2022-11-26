@@ -39,3 +39,16 @@ This project is analyzing fitness data of female user's from Smart Watch Fitness
 - Visualization is explanatory
 - Design
 - Completeness
+
+### Notes:
+MansiDesai_175 :
+- libraries are imported.
+- head part of data is taken.
+- Changing datatype of ActivityDate 
+- Graph of Datewise calories burned, inactive minutes.
+DevashreeDhagat_065 :
+- Libraries are imported.
+- Tail part of the data is taken.
+- Data description.
+- Graph for analysing relationship of calories and total steps taken.
+- Pie chart for analysing at how much minutes person was very active, fairly active, moderate active, etc.
